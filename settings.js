@@ -33,7 +33,7 @@ global.vcardowner = ['+94760671767'] // SAKUN KAVEESHA
 global.ownername = "༻꧁☬𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺̧̧̥" // SAKUN KAVEESHA
 global.ytname = "https://youtu.be/rYLF6KNHE-c" // SL SAKUN MAX
 global.socialm = "https://chat.whatsapp.com/DAv7cHRzJBDIlzrrDd1yCo
-global.location = "Ambalangoda Elpitiya" // location
+global.location = "Ambalangoda" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
